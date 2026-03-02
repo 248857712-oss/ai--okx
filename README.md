@@ -1,7 +1,7 @@
-##1.config中接入自己的okxapi，代理地址
-2.is_sim ：true为模拟盘 false为实盘（实盘能否运行未知）
-3.该策略只做为学术学习，不具备投资要求
-4.config中的一些参数      
+- 1.config中接入自己的okxapi，代理地址
+- 2.is_sim ：true为模拟盘 false为实盘（实盘能否运行未知）
+- 3.该策略只做为学术学习，不具备投资要求
+- 4.config中的一些参数      
  leverage：杠杆倍数
  position_ratio: 每次开仓比例
  lr_weight: 逻辑回归权重
